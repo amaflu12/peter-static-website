@@ -1,0 +1,117 @@
+.outer-dive{
+    width: 100%;
+    height: 562px;
+    
+}
+#image-div{
+  width: 55%;
+  height: 562px;
+  float: left;
+}
+#image-dive{
+  
+  width: 20%;
+  height: 509px;
+  float: left;
+  padding-left: 10px;
+  padding-top: 54px;
+  margin-left: 235px;
+  border-style: solid;
+  
+  
+}
+.text-div{
+  width: 377px;
+  height: 58px;
+}
+#born{
+  color: black;
+  padding-top: 2px;
+  float: left;
+  font-family: sans-serif;
+  font-weight: bold;
+
+}
+#born-dte{
+  color: rgb(73, 73, 73);
+  float: left;
+  padding-top: 15px;
+  padding-left: 65px;
+  font-family: Impact, 'Arial Narrow Bold', sans-serif;
+}
+
+
+
+.outer-div{
+    width: 100%;
+    height: 1000px;
+    background-color: blueviolet;
+    
+}
+.div-1{
+    width: 50%;
+    height: 50%;
+    
+    float: left;
+}
+.div-2{
+    width: 50%;
+    height: 50%;
+    background-color: rgb(34, 108, 121);
+    float: left;
+}
+.div-3{
+    width: 50%;
+    height: 50%;
+    background-color: rgb(60, 78, 18);
+    float: left;
+}
+.div-4{
+    width: 50%;
+    height: 50%;
+    background-color: rgb(102, 28, 102);
+    float: left;
+}
+.text{
+    margin-top: -70px;
+    margin-left: 10px;
+    
+}
+
+.af{
+
+    
+        font-family: Arial;
+        color: green;
+        background-color:black;
+        text-decoration: none;
+      }
+      
+      a:visited {
+        color: rgb(223, 223, 223);
+        background-color: rgb(0, 0, 0);
+        text-decoration: none;
+      }
+      
+      a:hover {
+        color: rgb(0, 0, 0);
+        background-color:white;
+        text-decoration: none;
+      }
+      
+      a:active {
+        color: rgb(0, 0, 0);
+        background-color: transparent;
+        text-decoration: none;
+      }
+
+    
+
+#made-love-footer{
+
+  font-family: sans-serif;
+  color: rgb(202, 196, 106);
+  
+  margin-left: 600px;
+}
+

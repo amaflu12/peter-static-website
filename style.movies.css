@@ -1,0 +1,127 @@
+#first-text{
+    color: #396a64;
+    margin-top: 150px;
+    margin-left: 620px;
+    margin-bottom: 70px;
+    font-size: 60px;
+    margin-right: 527px;
+    border: #836565;
+    border-style: solid;
+}
+#seccond-text{
+
+    margin-top: 100px;
+    margin-bottom: 30px;
+    margin-left: 100px;
+    font-size: 40px;
+    color: #6c6c6c;
+}
+.main-div{
+    height: 400px;
+    width: 100%;
+    background-color: #0000000d;
+    
+}
+.inner-1div{
+    width: 30%;
+    height: 100%;
+    float: left;
+
+}
+.inner-2div{
+    width: 70%;
+    height: 100%;
+    float: left
+}
+.image1{
+    margin-top: 83px;
+    margin-left: 50px;
+    border-radius: 5%;
+}
+.text-i-div2{
+    margin-top: 160px;
+    margin-left: 440px;
+    margin-bottom: -4px;
+    color: #6c4949;
+}
+.text2-i-div2{
+    margin-left: 440px;
+    margin-top: 5px;
+    color: #686868;
+    
+}
+#asd{
+    margin-left: 515px;
+}
+
+.main-div2{
+    width: 90%;
+    height: 400px;
+    margin-left: 90px;
+    background-color: #0000000d;
+}
+.first-div2{
+    width: 25%;
+    height: 400px;
+    float: left;
+}
+.seccond-div2{
+    width: 25%;
+    height: 400px;
+    float: left;
+}
+.third-div2{
+    width: 25%;
+    height: 400px;
+    float: left;
+}
+.fourth-div2{
+    width: 25%;
+    height: 400px;
+
+    float: left;
+}
+.img-div2{
+    width: 50%;
+    height: 70%;
+    margin-top: 25px;
+    margin-left: 100px;
+    border-radius: 10px;
+}
+
+
+#text-div2{
+    margin-top: 9px;
+    margin-left: 107px;
+    margin-bottom: 0px;
+    color: #424242;
+}
+#last-text{
+    margin-left: 110px;
+    margin-top: 55px;
+    color: #832323;
+    margin-bottom: 30px;
+}
+.last-a{
+    font-size: 30px;
+    color: #6e6e6e;
+    margin-top: 10px;
+    margin-left: 885px;
+    text-decoration: none;
+    font-family: monospace;
+    border-style: solid;
+    border-right-style: none;
+    border-left: none;
+}
+#footer{
+    width: 100%;
+    height: 215px;
+    background-color: #e7e7e7;
+    margin-top: 100px;
+    padding-top: 170px;
+}
+#footer-text{
+    color: rgb(155, 155, 155);
+    margin-left: 755px;
+    
+}
